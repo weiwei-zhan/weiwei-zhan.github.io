@@ -543,6 +543,7 @@ for `plot_grid()`.
 [^5]: They can also contain heterogeneous elements which will come in
     handy [later](#shared-legend).
 
+
 [^6]: If you check out the actual source code of `plot_grid()`, line 9
     shows you that the function is indeed putting `...` ahead of
     `plotlist`: `plots <- c(list(...), plotlist)`.
