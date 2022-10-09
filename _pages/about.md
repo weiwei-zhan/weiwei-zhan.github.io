@@ -8,23 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am a natural hazard researcher with broad applications in geotechnical earthquake engineering and engineering geology. I am affilated as a postdoctoral scholar in [Geohazards Research Lab](https://sites.tufts.edu/geohazards/) at the Department of Civil Environmental Engineering, Tufts University. I earned my Ph.D. in Civil Engineering from the [Computational Geomechanics Lab] (https://cecas.clemson.edu/geomechanics/) at Clemson University and Bachelor's degree in Engineering Geology from Chengdu University of Technology. 
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+The goal of my research is to understand the driving mechanisms of natural hazards and to provide novel tools for infrastructure resilience design and natural hazard mitigation. To accomplish this, I have used a combination of applied machine learning, computational geomechanics, remote sensing, signal processing, geospatial analysis, and big data with broad applications. This [research](research) explores broad applications in ground-motion modeling, earthquake site response assessment, liquefaction assessment, landslide risk management. While primarily focused on multiple natural hazard modeling, it also examines performance-based resilience design and near-real-time hazard response. My academic work has been [published](publications) in *Engineering Geology*, *Landslides*, *Journal of Geotechnical & Geoenvironmental Engineering*, and *Natural Hazards and Earth System Sciences*, among other outlets. I have [teaching](teaching) experience in both geotechnical engineering and risk engineering.
