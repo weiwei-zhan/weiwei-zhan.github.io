@@ -1,5 +1,5 @@
 ---
-title: "Social media data"
+title: "Geospatial modeling"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research

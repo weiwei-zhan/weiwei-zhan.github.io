@@ -1,5 +1,5 @@
 ---
-title: "Ground-Motion Modeling and Site Response Assessment"
+title: "Site Response Assessment"
 layout: single-portfolio
 excerpt: "<img src='/images/GMM_3elements.png' alt=''>"
 collection: research

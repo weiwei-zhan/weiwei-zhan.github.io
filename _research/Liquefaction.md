@@ -1,8 +1,9 @@
 ---
 title: "Rapid Liquefaction Hazard Assessment"
+layout: single-portfolio
 excerpt: "<br/><img src='/images/liquefaction.png'> "
 collection: research
-order_number: 20
+order_number: 40
 header: 
   og_image: "images/liq-detection-motivation.png"
 ---
