@@ -7,6 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+The goal of my research is to understand the driving mechanisms of natural hazards and to provide novel tools for infrastructure resilience design and natural hazard mitigation. To accomplish this, I have used a combination of applied machine learning, computational geomechanics, remote sensing, and signal processing with broad applications in geotechnical earthquake engineering and engineering geology. The applications of my research span from full-cycle landslide hazard assessment to data-driven seismic site response assessment, and to earthquake hazards mitigation via data-driven and physics-based methods. Summaries of my contributions in the mentioned areas are presented below.
+
 My academic research falls into two main areas: understanding the influence of
 geography on actor behavior before, during, and after civil conflict, and
 developing new tools to improve the study of institutions (both formal and

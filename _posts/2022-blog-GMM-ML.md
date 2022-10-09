@@ -1,0 +1,14 @@
+---
+title: 'ML-based Ground-Motion Modeling'
+date: 2022-04-25
+permalink: /posts/2022-blog-GMM-ML
+tags:
+  - ground-motion model
+  - machine learning
+---
+
+<br/><img src='/images/GMM-ML.png'>
+
+Ground-motion models (GMM) estimate the ground shaking intensity measures given a set of the earthquake source, path, and site variables, which provides the basis for any seismic risk assessment. In several ongoing works, I improved the accuracy of GMMs and discovered new site variables by integrating nonparametric machine learning and feature selection techniques. I observed that geospatial environmental data contributed to ground-motion modeling.
+
+
