@@ -1,7 +1,7 @@
 ---
 title: "Earthquake ground-motion modeling"
 layout: single-portfolio
-excerpt: "<img src='/images/GMM_3elements.png' alt=''>"
+excerpt: "<img src='/images/earthquake-waves.png' alt=''>"
 collection: research
 order_number: 30
 header: 
