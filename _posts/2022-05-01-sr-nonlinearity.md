@@ -1,5 +1,5 @@
 ---
-title: 'Site response nonlinearity assessment'
+title: 'Site Response Nonlinearity Assessment'
 date: 2022-05-01
 permalink: /posts/2022-05-01-sr-nonlinearity
 tags:

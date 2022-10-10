@@ -1,5 +1,5 @@
 ---
-title: 'Accelerogram-based real-time liquefaction hazard assessment'
+title: 'Accelerogram-based Real-time Liquefaction Hazard Detection'
 date: 2021-05-25
 permalink: /posts/2021-05-25-liq-detection
 tags:
