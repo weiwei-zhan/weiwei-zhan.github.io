@@ -1,13 +1,11 @@
 ---
-permalink: /gallery/
+layout: archive
 title: "Gallery"
-excerpt: "Gallery"
+permalink: /gallery/
 author_profile: true
 redirect_from: 
-  - /gallery/
-  - /gallery.html
+  - /gallery
 ---
-
 
 [Mega landslide front](/images/DGB-Front-View.jpg)
 
