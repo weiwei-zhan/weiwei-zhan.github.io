@@ -1,7 +1,7 @@
 ---
 title: 'Empirical Modeling of Landslide Mobility'
 date: 2017-07-08
-permalink: /posts/2017-blog-landslide-mobility
+permalink: /posts/2017-07-08-landslide-mobility
 #permalink: /posts/2017/07/2017-blog-landslide-mobility/
 #excerpt_separator: <!--more-->
 tags:
