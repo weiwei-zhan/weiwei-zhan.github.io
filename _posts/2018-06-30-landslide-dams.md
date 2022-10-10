@@ -1,7 +1,7 @@
 ---
 title: 'Geomorphological Surveys of Successive Landslide Dams'
 date: 2018-06-30
-permalink: /posts/2018-blog-landslide-dams
+permalink: /posts/2018-06-30-landslide-dams
 tags:
   - landslide dam
   - remote sensing

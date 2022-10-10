@@ -1,7 +1,7 @@
 ---
 title: 'Geotechnical Site Characterization of Deep Sediment Soils'
 date: 2021-07-15
-permalink: /posts/2021-blog-deep-soil-DPT
+permalink: /posts/2021-07-15-deep-soil-DPT
 tags:
   - basin
   - geotechnical survey

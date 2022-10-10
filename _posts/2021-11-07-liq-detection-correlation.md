@@ -1,7 +1,7 @@
 ---
 title: 'Parameter Sensitivity Analysis of the New Accelerogram-based Method'
 date: 2021-11-07
-permalink: /posts/2021-blog-liq-detection-correlation
+permalink: /posts/2021-11-07-liq-detection-correlation
 tags:
   - liquefaction
   - signal processing

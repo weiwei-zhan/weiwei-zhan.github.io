@@ -1,7 +1,7 @@
 ---
 title: 'Geospatial Surrogate Models for Site Response Complexity Assessment'
 date: 2022-04-25
-permalink: /posts/2022-blog-sr-geo-taxonomy
+permalink: /posts/2022-04-25-sr-geo-taxonomy
 tags:
   - site response
   - geospatial modeling

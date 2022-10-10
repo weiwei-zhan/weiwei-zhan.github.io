@@ -1,7 +1,7 @@
 ---
 title: 'Site Response Temporal Change Evaluation'
 date: 2022-05-01
-permalink: /posts/2022-blog-sr-temporal-changes
+permalink: /posts/2022-05-01-sr-temporal-changes
 tags:
   - site response
   - temporal change

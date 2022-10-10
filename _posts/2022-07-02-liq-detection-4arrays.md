@@ -1,7 +1,7 @@
 ---
 title: 'Evaluating the accelerogram-based liquefaction detection method using continuous earthquake recordings'
 date: 2022-07-02
-permalink: /posts/2022-blog-liq-detection-4arrays
+permalink: /posts/2022-07-02-liq-detection-4arrays
 tags:
   - liquefaction
   - signal processing

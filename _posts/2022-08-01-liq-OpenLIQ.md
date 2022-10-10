@@ -1,7 +1,7 @@
 ---
 title: 'Open-source Geospatial Liquefaction Database and Associated Tools'
 date: 2022-08-01
-permalink: /posts/2022-blog-liq-OpenLIQ
+permalink: /posts/2022-08-01-liq-OpenLIQ
 tags:
   - liquefaction
   - geostatistics

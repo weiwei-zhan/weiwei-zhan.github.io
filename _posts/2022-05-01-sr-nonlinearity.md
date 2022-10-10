@@ -1,7 +1,7 @@
 ---
 title: 'Site response nonlinearity assessment'
 date: 2022-05-01
-permalink: /posts/2022-blog-sr-nonlinearity
+permalink: /posts/2022-05-01-sr-nonlinearity
 tags:
   - site response
   - signal processing

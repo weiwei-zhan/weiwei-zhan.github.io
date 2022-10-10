@@ -1,7 +1,7 @@
 ---
 title: 'Numerical Modeling of Landslide Dynamic Processes'
 date: 2021-08-14
-permalink: /posts/2021-blog-landslide-DEM
+permalink: /posts/2021-08-14-landslide-DEM
 tags:
   - landslide
   - numerical simulation

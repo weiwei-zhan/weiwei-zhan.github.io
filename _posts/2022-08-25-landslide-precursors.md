@@ -1,7 +1,7 @@
 ---
 title: 'Geomorphological Precursors for Landslide Early Detection'
 date: 2022-08-25
-permalink: /posts/2022-blog-landslide-precursors
+permalink: /posts/2022-08-25-landslide-precursors
 tags:
   - landslide
   - remote sensing

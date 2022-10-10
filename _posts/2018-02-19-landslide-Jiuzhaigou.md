@@ -1,7 +1,7 @@
 ---
 title: 'Landslide Inventory Development and Spatial Pattern Analysis'
 date: 2018-02-19
-permalink: /posts/2018-blog-landslide-inventory
+permalink: /posts/2018-02-19-landslide-inventory
 tags:
   - landslide
   - geostatistics
