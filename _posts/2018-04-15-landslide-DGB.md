@@ -1,7 +1,7 @@
 ---
 title: 'Geological and Geotechnical Surveys of a Deep-Seated Rockslide'
 date: 2018-04-15
-permalink: /posts/2018-blog-landslide-DGB
+permalink: /posts/2018-04-15-landslide-DGB
 tags:
   - landslide
   - geological survey
