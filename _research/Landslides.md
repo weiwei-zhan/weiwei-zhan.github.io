@@ -1,16 +1,16 @@
 ---
 title: "Full-Cycle Landslide Hazard Assessment"
 layout: single-portfolio
-excerpt: "<img src='/images/landslide-methods.png' alt=''>"
+excerpt: "<img src='/images/landslide.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "images/landslide-methods.png"
+  og_image: "images/landslideManagement.png"
 ---
 
 The stability of natural and man-made slopes is influenced by internal factors (e.g., slope geometry, geomaterial, and geological structure) and external trigger forces (e.g., earthquake, rainfall, snow melting, and human disturbance). Landslide risk management favors the full-cycle landslide hazard assessment, including landslide early detection, slope stability assessment, landslide mobility prediction, and cascading hazards assessment.
 
-<br/><img src='/images/landslide-methods.png'>
+<br/><img src='/images/landslideManagement.png'>
 
 * [Geomorphological precursors for landslide early detection](/posts/2022-08-25-landslide-precursors)
 
