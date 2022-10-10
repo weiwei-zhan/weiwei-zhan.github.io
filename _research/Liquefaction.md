@@ -1,9 +1,9 @@
 ---
-title: "Real-time Liquefaction Hazard Detection"
+title: "Real-time Liquefaction Detection"
 layout: single-portfolio
 excerpt: "<br/><img src='/images/liquefaction.png'> "
 collection: research
-order_number: 40
+order_number: 20
 header: 
   og_image: "images/liq-detection-motivation.png"
 ---
