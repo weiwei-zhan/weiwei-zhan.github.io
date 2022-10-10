@@ -7,7 +7,8 @@ tags:
   - numerical simulation
 ---
 
-<br/><img src='/images/landslide-DEM.png'>
 
 To further investigate the extraordinary mobility of rock avalanches, I employed the discrete element method to simulate the entire process of an earthquake-induced landslide (landslide initiation, propagation, and deposition). Through the case study, I observed that the progressive rock fragmentations and violent interparticle collisions significantly contributed to the extraordinary high mobility.
 
+
+<br/><img src='/images/landslide-DEM.png'>
