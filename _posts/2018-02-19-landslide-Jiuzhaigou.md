@@ -11,3 +11,5 @@ Landslide inventory plays an important role in regional landslide susceptibility
 
 <br/><img src='/images/landslide-inventory.png'>
 
+
+
