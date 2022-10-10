@@ -1,5 +1,5 @@
 ---
-title: "Full-Cycle Landslide Hazard Assessment"
+title: "Full-Cycle Landslide Hazard Management"
 layout: single-portfolio
 excerpt: "<img src='/images/landslide.png' alt=''>"
 collection: research
