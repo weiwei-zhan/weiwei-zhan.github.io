@@ -1,5 +1,5 @@
 ---
-title: "Real-time liquefaction detection"
+title: "Real-time liquefaction detect"
 layout: single-portfolio
 excerpt: "<img src='/images/liquefaction.png' alt=''>"
 collection: research
