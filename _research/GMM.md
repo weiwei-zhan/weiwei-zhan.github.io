@@ -1,5 +1,5 @@
 ---
-title: "Site Response and Ground-motion Modeling"
+title: "Earthquake Ground-motion Modeling"
 layout: single-portfolio
 excerpt: "<img src='/images/GMM_3elements.png' alt=''>"
 collection: research

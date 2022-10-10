@@ -1,7 +1,7 @@
 ---
-title: "Real-time Liquefaction Detect"
+title: "Real-time liquefaction detection"
 layout: single-portfolio
-excerpt: "<br/><img src='/images/liquefaction.png'> "
+excerpt: "<img src='/images/liquefaction.png' alt=''>"
 collection: research
 order_number: 20
 header: 
