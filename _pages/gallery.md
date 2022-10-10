@@ -2,9 +2,6 @@
 layout: archive
 title: "Gallery"
 permalink: /gallery/
-author_profile: true
-redirect_from: 
-  - /gallery
 ---
 
 [Mega landslide front](/images/DGB-Front-View.jpg)
