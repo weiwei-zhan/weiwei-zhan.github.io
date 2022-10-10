@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-![Mega landslide](/images/DGB-Front-View.png)
+![Mega landslide front](/images/DGB-Front-View.jpg)
 
-![Mega landslide](/images/DGB-top.png)
+![Mega landslide top](/images/DGB-top.jpg)
 
-![Mega landslide](/images/DGB-Deposit.png)
+![Mega landslide deposit](/images/DGB-Deposit.jpg)
