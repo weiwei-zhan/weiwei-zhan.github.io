@@ -1,5 +1,5 @@
 ---
-title: "Rapid Liquefaction Hazard Assessment"
+title: "Real-time Liquefaction Hazard Detection"
 layout: single-portfolio
 excerpt: "<br/><img src='/images/liquefaction.png'> "
 collection: research
@@ -13,11 +13,11 @@ The accelerogram-based liquefaction assessment method detects liquefaction occur
 <br/><img src='/images/liq-detection-motivation.png'>
 
 
-* [Accelerogram-based real-time liquefaction hazard assessment](/posts/2021-blog-liq-detection)
+* [Accelerogram-based real-time liquefaction hazard assessment](/posts/2021-05-25-liq-detection)
 
-* [Parameter sensitivity analysis of the new accelerogram-based method](/posts/2021-blog-liq-detection-correlation)
+* [Parameter sensitivity analysis of the new accelerogram-based method](/posts/2021-11-07-liq-detection-correlation)
 
-* [Method evaluation using continuous earthquake recordings](/posts/2022-blog-liq-detection-4arrays)
+* [Method evaluation using continuous earthquake recordings](/posts/2022-07-02-liq-detection-4arrays)
 
 
 

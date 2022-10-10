@@ -12,16 +12,16 @@ The stability of natural and man-made slopes is influenced by internal factors (
 
 <br/><img src='/images/landslide-methods.png'>
 
-* [Geomorphological precursors for landslide early detection](/posts/2022-blog-landslide-precursors)
+* [Geomorphological precursors for landslide early detection](/posts/2022-08-25-landslide-precursors)
 
-* [Landslide inventory development and spatial pattern analysis](/posts/2018-blog-landslide-Jiuzhaigou) 
+* [Landslide inventory development and spatial pattern analysis](/posts/2018-02-19-landslide-Jiuzhaigou) 
 
-* [Geological and geotechnical surveys of a deep-seated rockslide](/posts/2018-blog-landslide-DGB)
+* [Geological and geotechnical surveys of a deep-seated rockslide](/posts/2018-04-15-landslide-DGB)
 
-* [Geomorphological surveys of successive landslide dams](/posts/2018-blog-landslide-dams)
+* [Geomorphological surveys of successive landslide dams](/posts/2018-06-30-landslide-dams)
 
-* [Empirical modeling of landslide mobility](/posts/2017-blog-landslide-mobility)
+* [Empirical modeling of landslide mobility](/posts/2017-07-08-landslide-mobility)
 
-* [Numerical modeling of landslide dynamic processes](/posts/2021-blog-landslide-DEM)
+* [Numerical modeling of landslide dynamic processes](/posts/2021-08-14-landslide-DEM)
 
-* [Geotechnical site characterization of deep sediment soils](/posts/2021-blog-deep-soil-DPT)
+* [Geotechnical site characterization of deep sediment soils](/posts/2021-07-15-deep-soil-DPT)
