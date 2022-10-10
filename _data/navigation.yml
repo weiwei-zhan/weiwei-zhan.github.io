@@ -13,7 +13,7 @@ main:
     url: /posts/
 
   - title: "Software"
-  url: /software/
+    url: /software/
     
   - title: "CV"
     url: /cv/
