@@ -1,5 +1,5 @@
 ---
-title: "Remote sensing and geospatial modeling"
+title: "Remote sensing and geospatial analytics"
 layout: single-portfolio
 excerpt: "<img src='/images/GeospatialModel.png' alt=''>"
 collection: research
