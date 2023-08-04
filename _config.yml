@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weiwei Zhan"
 title_separator          : "-"
 name                     : &name "Weiwei Zhan"
-description              : &description "Postdoc | Natural hazard researcher | Data scientist"
+description              : &description "Assistant Professor @ UCF"
 url                      : https://weiwei-zhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiwei-zhan/weiwei-zhan.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Weiwei Zhan"
   avatar           : "profile.JPG"
-  bio              : "Postdoc | Natural Hazard Researcher | Data Scientist"
-  location         : "Austin, Texas, USA"
+  bio              : "Assistant Professor @ UCF"
+  location         : "Orlando, Florida, USA"
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0002-9266-4466"
   googlescholar    : "https://scholar.google.com/citations?user=4qUWQVAAAAAJ&hl=en"
-  email            : "weiwei.zhan@austin.utexas.edu"
+  email            : "weiwei.zhan@ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : "WeiweiZhan_GEO"
+  twitter          : #"WeiweiZhan_GEO"
   vine             :
   weibo            :
   xing             :
