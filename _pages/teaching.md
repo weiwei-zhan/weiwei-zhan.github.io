@@ -2,7 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-## Department of Civil, Environmental, and Construction Engineering (CECE),University of Central Florida
+## Department of Civil, Environmental, and Construction Engineering (CECE), University of Central Florida
 - Instructor, Geotech Engineering I (2023 Fall)
 - Instructor, Soil Dynamics (2024 Spring)
 

@@ -8,17 +8,23 @@ permalink: /gallery/
 Strongly motivated applicants are invited to apply for two fully-funded PhD positions commencing in Spring or Fall 2024 at the Department of Civil, Environmental, & Construction Engineering (CECE), College of Engineering and Computer Science, University of Central Florida (UCF). The students will work on the following topics or beyond, based on mutual agreement.
 
 •	AI-Powered Natural Hazard Engineering
+
 •	Environmental and Social Big Data Analytics
+
 •	Multi-Hazard Infrastructure Resilient Design
 
-#### Minimum Qualifications:
+### Minimum Qualifications:
 •	BS/MS in a related discipline (e.g., Civil/Geological Engineering, Computer Science, or Geophysics)
+
 •	Fluency in English (both oral and written)
+
 •	Proficiency in any scientific programming languages (e.g., Python, R, MATLAB, C++)
 
 ### Preferred Qualification:
 •	Data acquisition and processing skills of various remote sensing data (e.g., UAV, InSAR, LiDAR)
+
 •	Research experience of using AI to solve engineering or science problems
+
 •	Numerical simulation skills (e.g., OPENSEES, LIGGGHTS, FLAC, or PFC)
 
 ### Application Procedure & Deadlines:
