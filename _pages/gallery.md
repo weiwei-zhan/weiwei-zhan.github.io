@@ -5,7 +5,7 @@ permalink: /gallery/
 ---
 ## Two Fully-Funded PhD Positions in Civil Engineering
 
-Strongly motivated applicants are invited to apply for two fully-funded PhD positions commencing in Spring/Fall 2024 at the Department of Civil, Environmental, & Construction Engineering (CECE), College of Engineering and Computer Science, University of Central Florida (UCF). The students will work on the following topics or beyond, based on mutual agreement.
+Strongly motivated applicants are invited to apply for two fully-funded PhD positions commencing in Spring or Fall 2024 at the Department of Civil, Environmental, & Construction Engineering (CECE), College of Engineering and Computer Science, University of Central Florida (UCF). The students will work on the following topics or beyond, based on mutual agreement.
 
 •	AI-Powered Natural Hazard Engineering
 •	Environmental and Social Big Data Analytics
