@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geosystems Research Lab"
+title                    : "Geosystems Engineering and Intelligence Lab"
 title_separator          : "-"
 name                     : &name "Weiwei Zhan"
 description              : &description "Assistant Professor @ University of Central Florida"

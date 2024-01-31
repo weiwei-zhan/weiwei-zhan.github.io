@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Geosystems Research Lab (GRL@UCF)"
+title: "Welcome to Geosystems Engineering and Intelligence Lab (GEI-Lab@UCF)"
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
