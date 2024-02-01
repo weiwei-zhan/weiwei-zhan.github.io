@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 
-<<<<<<< HEAD
 Full list of publications see [Google Scholar] (https://scholar.google.com/citations?user=4qUWQVAAAAAJ&hl=en).
 
+Below are some available full texts.
+<sup>*</sup> Corresponding author
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -20,4 +21,3 @@ Full list of publications see [Google Scholar] (https://scholar.google.com/citat
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Corresponding author
