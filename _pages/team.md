@@ -5,7 +5,7 @@ permalink: /team/
 ---
 ## Current Members
 
-![Khashayar Heydarpour](/images/team/KH.jpeg )
+![Khashayar Heydarpour](/images/team/KH.jpeg =40x50)
 
 Khashayar Heydarpour
 
@@ -17,7 +17,7 @@ Research topic: Earthquake Engineering, AI
 
 Email: khashayar.heydarpour@ucf.edu 
 
-![Jesllie Lopez Martinez](/images/team/JLM.jpg )
+![Jesllie Lopez Martinez](/images/team/JLM.jpg =40x50)
 
 Jesllie Lopez Martinez
 
