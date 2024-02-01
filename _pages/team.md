@@ -3,7 +3,6 @@ layout: archive
 title: "Meet the Team"
 permalink: /team/
 ---
-## Current Members
 
 ![Khashayar Heydarpour](/images/team/KH.jpeg =40x50)
 
