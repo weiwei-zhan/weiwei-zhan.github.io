@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Team"
+title: "Meet the Team"
 permalink: /team/
 ---
 ## Current Members
