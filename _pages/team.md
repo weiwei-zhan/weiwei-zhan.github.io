@@ -6,12 +6,28 @@ permalink: /team/
 ## Current Members
 
 ![Khashayar Heydarpour](/images/team/KH.jpeg )
+
 Khashayar Heydarpour
-PhD Student
+
+Role: PhD Student
+
 Hometown: Tehran, Iran
+
 Research topic: Earthquake Engineering, AI
+
 Email: khashayar.heydarpour@ucf.edu 
 
+![Jesllie Lopez Martinez](/images/team/JLM.jpg )
+
+Jesllie Lopez Martinez
+
+Role: Undergraduate Research Assistant
+
+Hometown: Honduras
+
+Research topic: Waveform Processing, Site Response
+
+Email: jesllie.lopezmartinez@ucf.edu
 
 ### Alumni
 
