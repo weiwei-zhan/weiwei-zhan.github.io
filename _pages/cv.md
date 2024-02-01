@@ -10,7 +10,7 @@ permalink: /cv/
                     Topic: HPC applications in natural hazard engineering
 
   	                Advisor: Prof. Ellen Rathje
-                    
+
 * 2021.03 – 2022.12 Postdoctoral Scholar	Tufts University, USA
 	                Topic: Geospatial natural hazard modeling and uncertainty quantification
 	                Advisor: Prof. Laurie Baise
@@ -30,6 +30,18 @@ permalink: /cv/
 * 2014	B.Sc. in Geological Engineering 	Chengdu University of Technology, China
 	Thesis: Statistical modeling of coseismic landslide mobility 
 	Advisors: Prof. Xiangjun Pei, Prof. Weile Li
+
+
+### AWARDS & HONORS
+* 2022	Travel Grant for 2022 SimCenter Symposium, NHERI SimCenter (UC Berkeley)
+* 2022	Travel Grant for 12NCEE, Earthquake Engineering Research Institute (EERI)
+* 2016	National Scholarship, Ministry of Education of China
+* 2016	Travel Grant for International Rockslides School, Chengdu University of Technology
+* 2014	Top 10 Bachelor’s Thesis (10/8000), Chengdu University of Technology
+* 2014	Meritorious Mention in National Mathematical Modeling Contest, Madio.net
+* 2013	Honorable Mention in the International Mathematics Modeling Competition (MCM/ICM) Consortium for Mathematics and Its Application (COMAP)
+* 2012	Excellent Volunteer, Environmental Protection Agency of Sichuan Province
+
 
 
 <!-- ---
