@@ -4,7 +4,7 @@ title: "Meet the Team"
 permalink: /team/
 ---
 
-![Khashayar Heydarpour](/images/team/KH.jpeg =40x50)
+![Khashayar Heydarpour](/images/team/KH.jpeg)
 
 Khashayar Heydarpour
 
@@ -16,7 +16,7 @@ Research topic: Earthquake Engineering, AI
 
 Email: khashayar.heydarpour@ucf.edu 
 
-![Jesllie Lopez Martinez](/images/team/JLM.jpg =40x50)
+![Jesllie Lopez Martinez](/images/team/JLM.jpg)
 
 Jesllie Lopez Martinez
 
