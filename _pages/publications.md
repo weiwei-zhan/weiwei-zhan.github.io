@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full list of publications see [Google Scholar] (https://scholar.google.com/citations?user=4qUWQVAAAAAJ&hl=en).
+Full list of publications see Google Scholar.
 
 Below are some available full texts.
+
 <sup>*</sup> Corresponding author
 
 {% if author.googlescholar %}
