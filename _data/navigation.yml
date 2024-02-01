@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Team"
+    url: /team/
+
   - title: "Research"
     url: /research/
 
@@ -15,8 +21,5 @@ main:
   # - title: "Software"
   #   url: /software/
     
-  - title: "CV"
-    url: /cv/
-
   - title: "Open Positions"
     url: /gallery/
