@@ -9,8 +9,6 @@ Full list of publications see Google Scholar.
 
 Below are some available full texts.
 
-<sup>*</sup> Corresponding author
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
