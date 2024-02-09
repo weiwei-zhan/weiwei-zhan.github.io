@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Weiwei Zhan is a tenure-track Assistant Professor  assistant professor in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF). He is the director of the Geosystems Engineering and Intelligence Laboratory (GEI) rooted in the smart cities initiatives at UCF. The GEI primarily focuses on systematic and intelligent solutions to advance geohazard mitigation and infrastructure resilience using interdisciplinary techniques merged from geotechnics, geology, geophysics, geodesy, geomechanics, and data science. 
+Dr. Weiwei Zhan is a tenure-track assistant professor in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF). He is the director of the Geosystems Engineering and Intelligence Laboratory (GEI) rooted in the smart cities initiatives at UCF. The GEI primarily focuses on systematic and intelligent solutions to advance geohazard mitigation and infrastructure resilience using interdisciplinary techniques merged from geotechnics, geology, geophysics, geodesy, geomechanics, and data science. 
 
 
 ## ACADEMIC EXPERIENCE
