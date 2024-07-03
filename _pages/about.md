@@ -11,7 +11,7 @@ Dr. Weiwei Zhan is a tenure-track assistant professor in the Department of Civil
 
 
 ## ACADEMIC EXPERIENCE
-* 2023-present, Assistant Professor, Department of Civil, Environmental, and Construction Engineering, University of Central Florida, U.S.
+* 2023-now,  Assistant Professor, Department of Civil, Environmental, and Construction Engineering, University of Central Florida, U.S.
 
 * 2023-2023, Postdoc Fellow, Texas Advanced Computing Center, University of Texas at Austin, U.S. 
 

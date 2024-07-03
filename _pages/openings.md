@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Open Positions"
-permalink: /gallery/
+permalink: /openings/
 ---
 # One Postdoc and Two PhD Positions in Geohazard Mitigation and Urban Resilience
 
