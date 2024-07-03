@@ -6,11 +6,11 @@ permalink: /team/
 
 <!-- ![Khashayar Heydarpour](/images/team/KH.jpeg) -->
 
-Khashayar Heydarpour (PhD Student)
-Matthew Davies (PhD student, Co-advised)
-Elise Helene Meyer (PhD student at Tufts Univ., Co-advised)
-Maggie Roberts (PhD student at Tufts Univ., Co-advised)
-Jesllie Lopez Martinez (Undergraduate Research Assistant)
+Khashayar Heydarpour (PhD Student) <br />
+Matthew Davies (PhD student, Co-advised) <br />
+Elise Helene Meyer (PhD student at Tufts Univ., Co-advised) <br />
+Maggie Roberts (PhD student at Tufts Univ., Co-advised) <br />
+Jesllie Lopez Martinez (Undergraduate Research Assistant) <br />
 
 
 <!-- Role: PhD Student
