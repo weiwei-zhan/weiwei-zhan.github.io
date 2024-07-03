@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Open Positions"
+title: "Opening Positions"
 permalink: /openings/
 ---
-# One Postdoc and Two PhD Positions in Geohazard Mitigation and Urban Resilience
+## One Postdoc and Two PhD Positions in Geohazard Mitigation and Urban Resilience
 
 We are seeking 1 postdoc and 2 PhD researchers to work on several recently funded projects in the fields of geohazard assessment and geoenvironmental protection. The successful candidates will join the dynamic research team of Prof. Weiwei Zhan in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF), focusing on interdisciplinary solutions for mitigating geohazards and enhancing urban resilience amidst global challenges such as earthquakes, climate change, and rapid urban growth.
 

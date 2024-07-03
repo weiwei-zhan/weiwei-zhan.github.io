@@ -1,4 +1,8 @@
-# Image Wall
+---
+layout: archive
+title: "Gallery"
+permalink: /gallery/
+---
 
 <div class="image-wall">
     <img src="2023Fall.jpg" alt="Image 1">
