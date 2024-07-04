@@ -11,7 +11,7 @@ permalink: /gallery/
 ![Image 5](image5.jpg)
 ![Image 6](image6.jpg) -->
 
-<style>
+<!-- <style>
 body {
     display: flex;
     justify-content: center;
@@ -44,5 +44,6 @@ body {
     transform: scale(1.05);
     border-color: #777;
 }
-</style>
+</style> -->
+
 
