@@ -4,14 +4,12 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-<div class="image-wall">
-    <img src="2023Fall.jpg" alt="Image 1">
-    <img src="Graduation-Ceremony.jpg" alt="Image 2">
-    <!-- <img src="image3.jpg" alt="Image 3">
-    <img src="image4.jpg" alt="Image 4">
-    <img src="image5.jpg" alt="Image 5">
-    <img src="image6.jpg" alt="Image 6"> -->
-</div>
+![Image 1](2023Fall.jpg)
+![Image 2](Graduation-Ceremony.jpg)
+<!-- ![Image 3](image3.jpg)
+![Image 4](image4.jpg)
+![Image 5](image5.jpg)
+![Image 6](image6.jpg) -->
 
 <style>
 body {
@@ -24,7 +22,7 @@ body {
     flex-direction: column;
 }
 
-.image-wall {
+.image-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: 10px;
@@ -33,7 +31,7 @@ body {
     margin: 20px 0;
 }
 
-.image-wall img {
+.image-container img {
     width: 100%;
     height: auto;
     display: block;
@@ -42,8 +40,9 @@ body {
     transition: transform 0.3s ease;
 }
 
-.image-wall img:hover {
+.image-container img:hover {
     transform: scale(1.05);
     border-color: #777;
 }
 </style>
+
