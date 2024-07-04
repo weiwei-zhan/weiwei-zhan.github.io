@@ -9,10 +9,10 @@ permalink: /gallery/
     <td><img src="/images/DGB-top.jpg" alt="Image 1" width="400"></td>
     <td><img src="/images/DGB-Deposit.jpg" alt="Image 2" width="400"></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><img src="/images/DGB-top.jpg" alt="Image 4" width="400"></td>
     <td><img src="/images/DGB-top.jpg" alt="Image 5" width="400"></td>
-  </tr>
+  </tr> -->
 </table>
 
 
