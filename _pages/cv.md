@@ -4,11 +4,11 @@ title: "Dr. Zhan's CV"
 permalink: /cv/
 ---
 ### ACADEMIC POSITIONS
-* 2023.08 – now	    Assistant Professor, University of Central Florida, USA
-* 2023.01 – 2023.07	Postdoctoral Fellow, University of Texas at Austin, USA
-* 2021.03 – 2022.12 Postdoctoral Scholar, Tufts University, USA
-* 2017.01 – 2020.12	Graduate Research Assistant, Clemson University, USA
-* 2014.09 – 2016.12	Graduate Research Assistant, Chengdu University of Technology, China
+* 2023.08 – now,	 Assistant Professor, University of Central Florida, USA
+* 2023.01 – 2023.07, Postdoctoral Fellow, University of Texas at Austin, USA
+* 2021.03 – 2022.12, Postdoctoral Scholar, Tufts University, USA
+* 2017.01 – 2020.12, Graduate Research Assistant, Clemson University, USA
+* 2014.09 – 2016.12, Graduate Research Assistant, Chengdu University of Technology, China
 
 ### EDUCATION
 * 2020	Ph.D. in Civil Engineering, Clemson University, USA,
