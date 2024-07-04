@@ -6,18 +6,17 @@ permalink: /gallery/
 
 <table>
   <tr>
-    <td><img src="/images/DGB-top.jpg" alt="Image 1" width="200"></td>
-    <td><img src="/images/DGB-top.jpg" alt="Image 2" width="200"></td>
-    <td><img src="/images/DGB-top.jpg" alt="Image 3" width="200"></td>
+    <td><img src="/images/DGB-top.jpg" alt="Image 1" width="400"></td>
+    <td><img src="/images/DGB-deposit.jpg" alt="Image 2" width="400"></td>
   </tr>
   <tr>
-    <td><img src="/images/DGB-top.jpg" alt="Image 4" width="200"></td>
-    <td><img src="/images/DGB-top.jpg" alt="Image 5" width="200"></td>
-    <td><img src="/images/DGB-top.jpg" alt="Image 6" width="200"></td>
+    <td><img src="/images/DGB-top.jpg" alt="Image 4" width="400"></td>
+    <td><img src="/images/DGB-top.jpg" alt="Image 5" width="400"></td>
   </tr>
 </table>
 
-<style>
+
+<!-- <style>
 body {
     display: flex;
     justify-content: center;
@@ -46,7 +45,7 @@ img:hover {
     transform: scale(1.05);
     border-color: #777;
 }
-</style>
+</style> -->
 
 
 <!-- ![Image 1](/images/DGB-top.jpg)
