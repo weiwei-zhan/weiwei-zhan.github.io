@@ -4,8 +4,8 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-![Image 1](2023Fall.jpg)
-![Image 2](Graduation-Ceremony.jpg)
+![Image 1](/images/DGB-top.jpg)
+![Image 2](/images/DGB-Deposit.jpg)
 <!-- ![Image 3](image3.jpg)
 ![Image 4](image4.jpg)
 ![Image 5](image5.jpg)
