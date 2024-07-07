@@ -6,13 +6,22 @@ permalink: /gallery/
 
 <table>
   <tr>
-    <td><img src="/images/DGB-top.jpg" alt="Image 1" width="400"></td>
-    <td><img src="/images/DGB-Deposit.jpg" alt="Image 2" width="400"></td>
+    <td><img src="/images/gallery/clemson-football.jpg" alt="Clemson Death Valley" width="400"></td>
+    <td><img src="/images/clemson-mentor-undergrad.jpg" alt="Image 5" width="400"></td>
   </tr>
-  <!-- <tr>
-    <td><img src="/images/DGB-top.jpg" alt="Image 4" width="400"></td>
-    <td><img src="/images/DGB-top.jpg" alt="Image 5" width="400"></td>
-  </tr> -->
+  <tr>
+    <td><img src="/images/egx-tunnel-scan.jpg" alt="DGB 1" width="400"></td>
+    <td><img src="/images/gbsar-slope.jpg" alt="DGB 2" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/dgb-top.jpg" alt="DGB 1" width="400"></td>
+    <td><img src="/images/field-mauri.jpg" alt="DGB 2" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/dgb-front view.jpg" alt="DGB 1" width="400"></td>
+    <td><img src="/images/dgb-deposit.jpg" alt="DGB 2" width="400"></td>
+  </tr>
+
 </table>
 
 
