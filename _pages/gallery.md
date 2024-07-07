@@ -6,8 +6,8 @@ permalink: /gallery/
 
 <table>
   <tr>
-    <td><img src="/images/gallery/clemson-football.jpg" alt="clemson-football" width="400"></td>
-    <td><img src="/images/clemson-mentor-undergrad.jpg" alt="clemson-mentor-undergrad" width="400"></td>
+    <td><img src="/images/gallery/clemson-football.jpg" alt="clemson-football" height="300"></td>
+    <td><img src="/images/clemson-mentor-undergrad.jpg" alt="clemson-mentor-undergrad" height="300"></td>
   </tr>
   <tr>
     <td><img src="/images/egx-tunnel-scan.jpg" alt="egx-tunnel-scan" width="400"></td>
