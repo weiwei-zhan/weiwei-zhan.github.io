@@ -6,12 +6,32 @@ permalink: /gallery/
 
 <table>
   <tr>
-    <td><img src="/images/gallery/clemson-football.jpg" alt="clemson-football" width="330"></td>
+    <td><img src="/images/gallery/utcampus.jpg" alt="utcampus" width="330"></td>
+    <td><img src="/images/gallery/designsafe.jpg" alt="designsafe" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/seminar-usgs.jpg" alt="seminar-usgs" width="330"></td>
+    <td><img src="/images/gallery/seminar-csm.jpg" alt="seminar-csm" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/seminar-usgs.jpg" alt="seminar-usgs" width="330"></td>
+    <td><img src="/images/gallery/seminar-csm.jpg" alt="seminar-csm" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/people-tuftsteam.jpg" alt="people-tuftsteam" width="330"></td>
+    <td><img src="/images/gallery/seminar-lu.jpg" alt="seminar-lu" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/clemson-graduation.jpg" alt="clemson-graduation" width="330"></td>
+    <td><img src="/images/gallery/conf-geoextreme.jpg" alt="conf-geoextreme" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/clemson-teach.jpg" alt="clemson-teach" width="330"></td>
     <td><img src="/images/gallery/clemson-mentor-undergrad.jpg" alt="clemson-mentor-undergrad" width="330"></td>
   </tr>
   <tr>
     <td><img src="/images/gallery/gbsar-slope.jpg" alt="gbsar-slope" width="330"></td>
-    <td><img src="/images/gallery/field-mauri.jpg" alt="field-mauri" width="330"></td>
+    <td><img src="/images/gallery/people-mauri.jpg" alt="people-mauri" width="330"></td>
   </tr>
   <tr>
     <td><img src="/images/gallery/dgb-front view.jpg" alt="dgb-front view" width="330"></td>
