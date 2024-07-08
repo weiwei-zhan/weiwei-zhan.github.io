@@ -6,20 +6,20 @@ permalink: /gallery/
 
 <table>
   <tr>
-    <td><img src="/images/gallery/clemson-football.jpg" alt="clemson-football" width="250"></td>
-    <td><img src="/images/gallery/clemson-mentor-undergrad.jpg" alt="clemson-mentor-undergrad" width="250"></td>
+    <td><img src="/images/gallery/clemson-football.jpg" alt="clemson-football" width="300"></td>
+    <td><img src="/images/gallery/clemson-mentor-undergrad.jpg" alt="clemson-mentor-undergrad" width="300"></td>
   </tr>
   <tr>
-    <td><img src="/images/gallery/egx-tunnel-scan.jpg" alt="egx-tunnel-scan" width="250"></td>
-    <td><img src="/images/gallery/gbsar-slope.jpg" alt="gbsar-slope" width="250"></td>
+    <td><img src="/images/gallery/egx-tunnel-scan.jpg" alt="egx-tunnel-scan" width="300"></td>
+    <td><img src="/images/gallery/gbsar-slope.jpg" alt="gbsar-slope" width="300"></td>
   </tr>
   <tr>
-    <td><img src="/images/gallery/dgb-top.jpg" alt="dgb-top" width="250"></td>
-    <td><img src="/images/gallery/field-mauri.jpg" alt="field-mauri" width="250"></td>
+    <td><img src="/images/gallery/dgb-top.jpg" alt="dgb-top" width="300"></td>
+    <td><img src="/images/gallery/field-mauri.jpg" alt="field-mauri" width="300"></td>
   </tr>
   <tr>
-    <td><img src="/images/gallery/dgb-front view.jpg" alt="dgb-front view" width="250"></td>
-    <td><img src="/images/gallery/dgb-deposit.jpg" alt="dgb-deposit" width="250"></td>
+    <td><img src="/images/gallery/dgb-front view.jpg" alt="dgb-front view" width="300"></td>
+    <td><img src="/images/gallery/dgb-deposit.jpg" alt="dgb-deposit" width="300"></td>
   </tr>
 
 </table>
