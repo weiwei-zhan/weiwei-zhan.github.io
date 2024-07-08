@@ -14,10 +14,6 @@ permalink: /gallery/
     <td><img src="/images/gallery/seminar-csm.jpg" alt="seminar-csm" width="330"></td>
   </tr>
   <tr>
-    <td><img src="/images/gallery/seminar-usgs.jpg" alt="seminar-usgs" width="330"></td>
-    <td><img src="/images/gallery/seminar-csm.jpg" alt="seminar-csm" width="330"></td>
-  </tr>
-  <tr>
     <td><img src="/images/gallery/people-tuftsteam.jpg" alt="people-tuftsteam" width="330"></td>
     <td><img src="/images/gallery/seminar-lu.jpg" alt="seminar-lu" width="330"></td>
   </tr>
