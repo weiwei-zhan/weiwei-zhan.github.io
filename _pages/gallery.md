@@ -42,7 +42,7 @@ permalink: /gallery/
     <td><img src="/images/gallery/geoextreme.jpg" alt="conf-geoextreme" width="330"></td>
   </tr>
   <tr>
-    <td><img src="/images/gallery/clemsonteach.jpg" alt="clemson-teach" width="330"></td>
+    <td><img src="/images/gallery/clemson-teach.jpg" alt="clemson-teach" width="330"></td>
     <td><img src="/images/gallery/clemson-mentor-undergrad.jpg" alt="clemson-mentor-undergrad" width="330"></td>
   </tr>
   <tr>
