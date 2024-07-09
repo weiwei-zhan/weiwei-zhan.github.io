@@ -14,8 +14,8 @@ permalink: /gallery/
     <td><img src="/images/gallery/conf-osaka2.jpg" alt="conf-osaka2" width="330"></td>
   </tr>
   <tr>
-    <td><img src="/images/gallery/visiteri.jpg" alt="visiteri" width="330"></td>
-    <td><img src="/images/gallery/seminareri.jpg" alt="seminareri" width="330"></td>
+    <td><img src="/images/gallery/visit-eri.jpg" alt="visit-eri" width="330"></td>
+    <td><img src="/images/gallery/seminar-eri.jpg" alt="seminar-eri" width="330"></td>
   </tr>
   <tr>
     <td><img src="/images/gallery/designsafe.jpg" alt="DS" width="330"></td>
