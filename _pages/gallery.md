@@ -6,6 +6,14 @@ permalink: /gallery/
 
 <table>
   <tr>
+    <td><img src="/images/gallery/conf-geoshanghai.jpg" alt="conf-geoshanghai" width="330"></td>
+    <td><img src="/images/gallery/people-osaka-gather.jpg" alt="people-osaka-gather" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/conf-osaka.jpg" alt="conf-osaka" width="330"></td>
+    <td><img src="/images/gallery/conf-osaka2.jpg" alt="conf-osaka2" width="330"></td>
+  </tr>
+  <tr>
     <td><img src="/images/gallery/visit-eri.jpg" alt="visit-eri" width="330"></td>
     <td><img src="/images/gallery/seminar-eri.jpg" alt="seminar-eri" width="330"></td>
   </tr>
