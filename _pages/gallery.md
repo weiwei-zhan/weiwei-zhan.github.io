@@ -7,7 +7,7 @@ permalink: /gallery/
 <table>
   <tr>
     <td><img src="/images/gallery/conf-geoshanghai.jpg" alt="conf-geoshanghai" width="330"></td>
-    <td><img src="/images/gallery/people-osaka-gather.jpg" alt="people-osaka-gather" width="330"></td>
+    <td><img src="/images/gallery/people-osaka-gather.jpg" alt="osaka-gather" width="330"></td>
   </tr>
   <tr>
     <td><img src="/images/gallery/conf-osaka.jpg" alt="conf-osaka" width="330"></td>
