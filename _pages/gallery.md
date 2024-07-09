@@ -20,7 +20,7 @@ permalink: /gallery/
     <td><img src="/images/gallery/seminarERI.jpg" alt="seminarERI" width="330"></td>
   </tr>
   <tr>
-    <td><img src="/images/gallery/designsafe.jpg" alt="designsafe" width="330"></td>
+    <td><img src="/images/gallery/DS.jpg" alt="designsafe" width="330"></td>
     <td><img src="/images/gallery/visit-fiu.jpg" alt="visit-fiu" width="330"></td>
   </tr>
   <tr>
