@@ -6,12 +6,24 @@ permalink: /gallery/
 
 <table>
   <tr>
-    <td><img src="/images/gallery/utcampus.jpg" alt="utcampus" width="330"></td>
+    <td><img src="/images/gallery/visit-eri.jpg" alt="visit-eri" width="330"></td>
+    <td><img src="/images/gallery/seminar-eri.jpg" alt="seminar-eri" width="330"></td>
+  </tr>
+  <tr>
     <td><img src="/images/gallery/designsafe.jpg" alt="designsafe" width="330"></td>
+    <td><img src="/images/gallery/visit-fiu.jpg" alt="visit-fiu" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/utcampus.jpg" alt="utcampus" width="330"></td>
+    <td><img src="/images/gallery/visit-kyoto.jpg" alt="visit-kyoto" width="330"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/gallery/seminar-csm.jpg" alt="seminar-csm" width="330"></td>
+    <td><img src="/images/gallery/visit-csm-wildfire.jpg" alt="visit-csm-wildfire" width="330"></td>
   </tr>
   <tr>
     <td><img src="/images/gallery/seminar-usgs.jpg" alt="seminar-usgs" width="330"></td>
-    <td><img src="/images/gallery/seminar-csm.jpg" alt="seminar-csm" width="330"></td>
+    <td><img src="/images/gallery/conf-georisk2023.jpg" alt="conf-georisk2023" width="330"></td>
   </tr>
   <tr>
     <td><img src="/images/gallery/people-tuftsteam.jpg" alt="people-tuftsteam" width="330"></td>
