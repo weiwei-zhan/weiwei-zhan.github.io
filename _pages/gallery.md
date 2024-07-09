@@ -16,8 +16,8 @@ permalink: /gallery/
   </tr>
 
   <tr>
-    <td><img src="/images/gallery/visit-eri.jpg" alt="visit-eri" width="330"></td>
-    <td><img src="/images/gallery/seminar-eri.jpg" alt="seminar-eri" width="330"></td>
+    <td><img src="/images/gallery/visitERI.jpg" alt="visitERI" width="330"></td>
+    <td><img src="/images/gallery/seminarERI.jpg" alt="seminarERI" width="330"></td>
   </tr>
   <tr>
     <td><img src="/images/gallery/designsafe.jpg" alt="designsafe" width="330"></td>
