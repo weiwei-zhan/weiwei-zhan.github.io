@@ -11,8 +11,8 @@ permalink: /gallery/
   </tr>
 
   <tr>
-    <td><img src="/images/gallery/conf-osaka.jpg" alt="conf-osaka" width="330"></td>
-    <td><img src="/images/gallery/conf-osaka2.jpg" alt="osaka2" width="330"></td>
+    <td><img src="/images/gallery/confOsaka.jpg" alt="Osaka" width="330"></td>
+    <td><img src="/images/gallery/confOsaka2.jpg" alt="Osaka2" width="330"></td>
   </tr>
 
   <tr>
