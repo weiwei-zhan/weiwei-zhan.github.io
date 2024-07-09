@@ -12,9 +12,9 @@ permalink: /gallery/
 
   <tr>
     <td><img src="/images/gallery/conf-osaka.jpg" alt="conf-osaka" width="330"></td>
-    <td><img src="/images/gallery/conf-osaka2.jpg" alt="conf-osaka2" width="330"></td>
+    <td><img src="/images/gallery/conf-osaka2.jpg" alt="osaka2" width="330"></td>
   </tr>
-  
+
   <tr>
     <td><img src="/images/gallery/visit-eri.jpg" alt="visit-eri" width="330"></td>
     <td><img src="/images/gallery/seminar-eri.jpg" alt="seminar-eri" width="330"></td>
