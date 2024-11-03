@@ -6,7 +6,7 @@ permalink: /team/
 
 <!-- ![Khashayar Heydarpour](/images/team/KH.jpeg) -->
 ## Postdoc Researchers
-Bahareh K Harandi (Postdoc) <br />
+Bahareh K Harandi <br />
 
 ## Graduate Students
 Shishir Chaulagain (PhD Student) <br />
