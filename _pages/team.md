@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <!-- ![Khashayar Heydarpour](/images/team/KH.jpeg) -->
-## Postdoc
+## Postdoc Researchers
 Bahareh K Harandi (Postdoc) <br />
 
 ## Graduate Students
