@@ -5,12 +5,24 @@ permalink: /team/
 ---
 
 <!-- ![Khashayar Heydarpour](/images/team/KH.jpeg) -->
+## Postdoc
+Bahareh K Harandi (Postdoc) <br />
 
-Khashayar Heydarpour (PhD Student) <br />
+## Graduate Students
+Shishir Chaulagain (PhD Student) <br />
+Varun Singh (Master Student) <br />
+Sanidhya Sharma (Master Student) <br />
 Matthew Davies (PhD student, Co-advised) <br />
 Elise Helene Meyer (PhD student at Tufts Univ., Co-advised) <br />
 Maggie Roberts (PhD student at Tufts Univ., Co-advised) <br />
-Jesllie Lopez Martinez (Undergraduate Research Assistant) <br />
+
+## Undergraduate Students
+Gustavo Flores <br />
+Julia Manfrediz <br />
+Ma Alessandra Domingo <br />
+Nathalia Carreno <br />
+Olivia Tedeschi <br />
+Jesllie Lopez Martinez <br />
 
 
 <!-- Role: PhD Student
