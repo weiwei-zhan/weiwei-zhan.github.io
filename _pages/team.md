@@ -9,7 +9,6 @@ permalink: /team/
 Bahareh K Harandi <br />
 
 ## Graduate Students
-Shishir Chaulagain (PhD Student) <br />
 Varun Singh (Master Student) <br />
 Sanidhya Sharma (Master Student) <br />
 Matthew Davies (PhD student, Co-advised) <br />
