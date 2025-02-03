@@ -34,6 +34,11 @@ Email: khashayar.heydarpour@ucf.edu  -->
 
 <!-- ![Jesllie Lopez Martinez](/images/team/JLM.jpg) -->
 
+## Former Lab Members
+
+![Jesllie Lopez Martinez](/images/team/JLM.jpg)
+
+
 
 
 <!-- Role: Undergraduate Research Assistant
