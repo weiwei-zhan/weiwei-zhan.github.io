@@ -24,26 +24,16 @@ Olivia Tedeschi <br />
 Jesllie Lopez Martinez <br />
 
 
-<!-- Role: PhD Student
-
-Hometown: Tehran, Iran
-
-Research topic: Earthquake Engineering, AI
-
-Email: khashayar.heydarpour@ucf.edu  -->
-
-<!-- ![Jesllie Lopez Martinez](/images/team/JLM.jpg) -->
-
 
 
 
 ## Former Lab Members
 
-![Jesllie Lopez Martinez](/images/team/JLM.jpg)
-<p align="center">Jesllie Lopez Martinez </p>
-<p align="center">(URA, 2023-2024)</p>
+<!-- ![Jesllie Lopez Martinez](/images/team/JLM.jpg)
+Jesllie Lopez Martinez 
+(URA, 2023-2024)
 
 <div style="display: flex; align-items: center;">
     <img src="/images/team/JLM.jpg" alt="Peple" width="200">
     <p style="margin-left: 20px;">test..Dr. Weiwei Zhan is a tenure-track assistant professor in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF). He is the director of the Geosystems Engineering and Intelligence Laboratory (GEI) rooted in the smart cities initiatives at UCF. The GEI primarily focuses on systematic and intelligent solutions to advance geohazard mitigation and infrastructure resilience using interdisciplinary techniques merged from geotechnics, geology, geophysics, geodesy, geomechanics, and data science.</p>
-</div>
+</div> -->
