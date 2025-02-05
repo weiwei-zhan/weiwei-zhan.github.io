@@ -40,7 +40,7 @@ Matthew Davies (PhD student, Co-advised) <br />
 Elise Helene Meyer (PhD student at Tufts Univ., Co-advised) <br />
 Maggie Roberts (PhD student at Tufts Univ., Co-advised) <br />
 
-## Undergraduate Students
+## Undergraduate Student Researchers
 
 <div style="display: flex; align-items: center;">
     <img src="/images/team/olivia.jpg" alt="People" width="200">
