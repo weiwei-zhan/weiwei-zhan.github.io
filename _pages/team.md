@@ -79,7 +79,9 @@ Maggie Roberts (PhD student at Tufts Univ., Co-advised) <br />
 
 ## Former Lab Members
 
-![Jesllie Lopez Martinez](/images/team/jesllie.jpg)
-<!-- Jesllie Lopez Martinez 
-(URA, 2023-2024) -->
+<div style="display: flex; align-items: center;">
+    <img src="/images/team/jesllie.jpg" alt="People" width="200">
+    <p style="margin-left: 40px;">
+    </p>
+</div>
 
