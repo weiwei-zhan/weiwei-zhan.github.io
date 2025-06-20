@@ -36,6 +36,21 @@ permalink: /team/
     </p>
 </div>
 
+<div style="display: flex; align-items: center;">
+    <img src="/images/team/osama.jpg" alt="People" width="200">
+    <p style="margin-left: 40px;"><strong>Wenlong Yu</strong><br> 
+    Osama is joining the GEI lab in Fall 2025 and earned the ORCGS Doctoral fellowship to support his PhD study at UCF. He holds Bachelor’s and Master’s degrees in Earth and Environmental Sciences from Yarmouk University, Jordan. During his Master’s, he contributed to multiple research projects, including geological and geochemical analyses of basin formation processes, as well as GeoAI applications for land cover and land use mapping. Additionally, Osama joined an engineering firm in the Middle East, “ACES”, as a Geophysicist. By working in two locations—Jordan and Saudi Arabia—he was engaged in various geophysical projects aiming to mitigate potential geohazards. He has extensive experience in geophysical techniques such as Microgravity, MASW, ERT, SRT, GPR, and Downhole. At the GEI Lab, his research focuses on sinkhole hazard detection and modeling. 
+    </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="/images/team/kishan.jpg" alt="People" width="200">
+    <p style="margin-left: 40px;"><strong>Wenlong Yu</strong><br> 
+    Kishan is joining the GEI Lab in Fall 2025. He holds a bachelor’s degree in Civil Engineering from Tribhuvan University (Nepal), Institute of Engineering, Pulchowk Campus, earned in 2024. During his bachelor study, Kishan conducted research using InSAR satellite techniques to monitor and analyze slow-moving landslides in the hilly region of Nepal. He has skills in QGIS, AutoCAD, Etabs, and SNAP Desktop. He is currently pursuing a Ph.D. in Civil Engineering at UCF. At the GEI Lab, his research focuses on leveraging remote sensing and artificial intelligence techniques for landslide mapping and monitoring.
+    </p>
+</div>
+
+
 Matthew Davies (PhD student, Co-advised) <br />
 Elise Helene Meyer (PhD student at Tufts Univ., Co-advised) <br />
 Maggie Roberts (PhD student at Tufts Univ., Co-advised) <br />
