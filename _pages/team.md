@@ -44,6 +44,13 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: center;">
+    <img src="/images/team/jaseem.jpg" alt="People" width="200">
+    <p style="margin-left: 40px;"><strong>Muhammed Jaseem PA</strong><br> 
+    Jaseem will be joining the GEI Lab in Fall 2025 as a Ph.D. student in Civil Engineering at UCF. He holds a Master’s degree in Geology with a focus on computational hydroclimatology and hazard risk assessment. His previous work has explored spatial connections in extreme precipitation events, nonlinear dynamics of hydrometeorological hazards, critical systems in river networks, and spatial risk assessment. These studies involved statistical, spatiotemporal, and network-based analyses rooted in complexity science to better understand hydrological systems and their complex dynamics. At the GEI Lab, his research focus on understanding how cascading effects of extreme rainfall events interact with vulnerable landscapes, resulting in compounded risks.
+    </p>
+</div>
+
+<div style="display: flex; align-items: center;">
     <img src="/images/team/kishan.jpg" alt="People" width="200">
     <p style="margin-left: 40px;"><strong>Kishan Dhakal</strong><br> 
     Kishan is joining the GEI Lab in Fall 2025. He holds a bachelor’s degree in Civil Engineering from Tribhuvan University (Nepal), Institute of Engineering, Pulchowk Campus, earned in 2024. During his bachelor study, Kishan conducted research using InSAR satellite techniques to monitor and analyze slow-moving landslides in the hilly region of Nepal. He has skills in QGIS, AutoCAD, Etabs, and SNAP Desktop. He is currently pursuing a Ph.D. in Civil Engineering at UCF. At the GEI Lab, his research focuses on leveraging remote sensing and artificial intelligence techniques for landslide mapping and monitoring.
