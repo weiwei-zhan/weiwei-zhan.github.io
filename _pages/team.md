@@ -51,6 +51,13 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: center;">
+    <img src="/images/team/bassam.jpg" alt="People" width="200">
+    <p style="margin-left: 40px;"><strong>Bassam Nasir</strong><br> 
+    Bassam is joining the GEI Lab in Fall 2025 as a PhD student. He earned his Bachelor's degree in Geophysics from Bahria University, Pakistan, where he was awarded a gold medal for academic excellence. Bassam has worked as a Marine Geophysicist at the National Institute of Oceanography, contributing to national-level projects such as Monitoring Seawater Intrusion, Sea Level Rise, and Coastal Erosion. He also developed pre-hazard assessment maps for government authorities in advance of cyclone landfalls. With four years of diverse experience, Bassam specializes in marine geophysical data acquisition and processing, remote sensing and GIS, and software development. His research interests include geohazard modeling, seismic interpretation, and coastal resilience.
+    </p>
+</div>
+
+<div style="display: flex; align-items: center;">
     <img src="/images/team/kishan.jpg" alt="People" width="200">
     <p style="margin-left: 40px;"><strong>Kishan Dhakal</strong><br> 
     Kishan is joining the GEI Lab in Fall 2025. He holds a bachelor’s degree in Civil Engineering from Tribhuvan University (Nepal), Institute of Engineering, Pulchowk Campus, earned in 2024. During his bachelor study, Kishan conducted research using InSAR satellite techniques to monitor and analyze slow-moving landslides in the hilly region of Nepal. He has skills in QGIS, AutoCAD, Etabs, and SNAP Desktop. He is currently pursuing a Ph.D. in Civil Engineering at UCF. At the GEI Lab, his research focuses on leveraging remote sensing and artificial intelligence techniques for landslide mapping and monitoring.
