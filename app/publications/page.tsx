@@ -8,10 +8,11 @@ export const metadata: Metadata = { title: "Publications" };
 
 const topicOrder = [
   "Landslides & slope systems",
-  "Earthquake engineering & ground failure",
-  "Coastal hazards & infrastructure",
-  "Subsurface & infrastructure systems",
-  "GeoAI, sensing & geospatial methods",
+  "Earthquake Ground Motions and Site Response",
+  "Soil Liquefaction Assessment"
+  "Coastal Hazards Reconnaissance and Modeling",
+  "Remote Sensing and GeoAI",
+  "Near-Surface Geophysics",
 ] as const;
 
 function topicId(topic: string) {
