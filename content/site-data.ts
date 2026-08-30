@@ -18,23 +18,17 @@ export const currentPeopleGroups = [
   {
     title: "Graduate Researchers",
     people: [
-      { name: "Wenlong Yu", role: "Visiting Ph.D. Researcher", period: "2025.01–Present", image: "/images/people/wenlong.jpg", focus: "Landslide mechanisms and monitoring using UAV photogrammetry, LiDAR, and InSAR." },
-      { name: "Osama Al-Tarawneh", role: "Ph.D. Researcher · Civil Engineering", period: "2025.08–Present", image: "/images/people/osama.jpg", focus: "Sinkhole detection and modeling through geophysics, remote sensing, and GeoAI." },
-      { name: "Muhammed Jaseem P A", role: "Ph.D. Researcher · Civil Engineering", period: "2025.08–Present", image: "/images/people/jaseem.jpg", focus: "Compound rainfall–landscape hazards, spatial networks, and complex-systems analysis." },
-      { name: "Bassam Nasir", role: "Ph.D. Researcher · Civil Engineering", period: "2025.08–Present", image: "/images/people/bassam.jpg", focus: "Marine geophysics, coastal resilience, remote sensing, and geohazard modeling." },
-      { name: "Kishan Dhakal", role: "Ph.D. Researcher · Civil Engineering", period: "2025.08–Present", image: "/images/people/kishan.jpg", focus: "Landslide mapping and monitoring with InSAR, remote sensing, and artificial intelligence." },
+      { name: "Osama Al-Tarawneh", role: "Ph.D. Student · Civil Engineering", period: "2025.08–Present", image: "/images/people/osama.jpg", focus: "Sinkhole, GeoAI, GPR, geophysics." },
+      { name: "Muhammed Jaseem P A", role: "Ph.D. Student · Civil Engineering", period: "2025.08–Present", image: "/images/people/jaseem.jpg", focus: "Rainfall–induced landslides, hybrid modeling, complex-systems analysis." },
+      { name: "Bassam Nasir", role: "Ph.D. Student · Civil Engineering", period: "2025.08–Present", image: "/images/people/bassam.jpg", focus: "Coastal resilience, geophysics." },
+      { name: "Kishan Dhakal", role: "Ph.D. Student · Civil Engineering", period: "2025.08–Present", image: "/images/people/kishan.jpg", focus: "Slope stabibility, InSAR, GeoAI." },
+      { name: "Polina Karpova", role: "MS Student (thesis) · Smart Cities", period: "2025.08–Present", image: "/images/people/polina.jpg", focus: "Coastal erosion, LiDAR." },
     ],
   },
   {
     title: "Undergraduate Researchers",
     people: [
-      { name: "Grayson Grady", role: "Undergraduate Research Assistant", period: "2025.08–Present", focus: "Undergraduate research in geosystems engineering and natural-hazard resilience." },
-    ],
-  },
-  {
-    title: "Co-advised Researchers",
-    people: [
-      { name: "Elise Helene Meyer", role: "Ph.D. Researcher · Tufts University", period: "2024–Present", focus: "Geospatial site terms and nonergodic ground-motion modeling." },
+      { name: "NEW Student", role: "Undergraduate Research Assistant", period: "2026.08–Present", focus: "Keywords" },
     ],
   },
 ];
@@ -43,27 +37,28 @@ export const alumniGroups = [
   {
     title: "Postdoctoral Alumni",
     people: [
-      { name: "Bahareh Kalantarghorashi Harandi", role: "P3 Postdoctoral Fellow", period: "2025.01–2026.06", focus: "Remote sensing, spatial machine learning, and GeoAI for geohazard prediction and mitigation." },
+      { name: "Bella Harandi", role: "Postdoctoral Fellow", period: "2025.01–2026.06", focus: "Remote sensing, GeoAI, Landslide, Wetland Vegetation" },
     ],
   },
   {
     title: "Graduate Alumni",
     people: [
-      { name: "Varun Singh", role: "M.S. · Civil Engineering", period: "2024.08–2026.05", image: "/images/people/varun.jpg", focus: "Field data analysis, geotechnical investigation, and engineering materials." },
-      { name: "Sanidhya Sharma", role: "M.S. · Civil Engineering", period: "2024.08–2026.05", image: "/images/people/sanidhya.jpg", focus: "Big-data analytics, signal processing, and seismic-hazard assessment." },
-      { name: "Matthew Davies", role: "Ph.D. Researcher · Co-advised", period: "2024.08–2025.12", focus: "Collaborative doctoral research in coastal and infrastructure systems." },
-      { name: "Maggie Roberts", role: "Ph.D. Researcher · Tufts University", period: "2024–2026", focus: "Geospatial site amplification and nonergodic ground-motion modeling." },
+      { name: "Varun Singh", role: "M.S. · Civil Engineering", period: "2024.08–2026.05", image: "/images/people/varun.jpg", focus: "Liquefaction-induced lateral spreading, CPT, geotechnics." },
+      { name: "Sanidhya Sharma", role: "M.S. · Civil Engineering", period: "2024.08–2026.05", image: "/images/people/sanidhya.jpg", focus: "Site response assessment, big data analytics, signal processing." },
+      { name: "Wenlong Yu", role: "Visiting Ph.D. Researcher", period: "2025.01–2026.01", image: "/images/people/wenlong.jpg", focus: "Landslide-river interaction, InSAR, engineering geology." },
+      { name: "Matthew Davies", role: "Ph.D. · Co-advised with Dr. Nick Chen", period: "2024.08–2025.12", image: "/images/people/matthew.jpg", focus: "Shoaling dynamics, dredging analytics" },
     ],
   },
   {
     title: "Undergraduate Alumni",
     people: [
-      { name: "Nathalia Carreno", role: "Undergraduate Research Assistant", period: "2024.08–2025.08", image: "/images/people/nathalia.jpg", focus: "Landslide mapping, climate-driven hazards, and sustainability." },
-      { name: "Gustavo Flores", role: "Undergraduate Research Assistant · UCF EXCEL", period: "2025.01–2025.08", image: "/images/people/gustavo.jpg", focus: "Computational methods and data-driven analysis for coastal-erosion research." },
-      { name: "Julia Manfrediz", role: "Undergraduate Research Assistant · UCF EXCEL", period: "2025.01–2025.08", image: "/images/people/julia.jpg", focus: "Landslide mapping and natural-hazard mitigation." },
-      { name: "Olivia Tedeschi", role: "Undergraduate Research Assistant", period: "2024.08–2025.05", image: "/images/people/olivia.jpg", focus: "Coastal erosion, field investigation, and laboratory research." },
-      { name: "Ma Alessandra Domingo", role: "Undergraduate Research Assistant", period: "2024.08–2025.03", image: "/images/people/alessandra.jpg", focus: "Florida sinkhole research and environmental engineering." },
-      { name: "Jesllie Lopez Martinez", role: "Undergraduate Research Assistant", period: "2024.01–2024.05", image: "/images/people/jesllie.jpg", focus: "Undergraduate research in geotechnical engineering and natural hazards." },
+      { name: "Grayson Grady", role: "Undergraduate Research Assistant", period: "2025.08–2026.04", image: "/images/people/grayson.jpg",focus: "Sinkhole, CPT." },
+      { name: "Nathalia Carreno", role: "Undergraduate Research Assistant", period: "2024.08–2025.08", image: "/images/people/nathalia.jpg", focus: "Landslide mapping, Google Earth Engine." },
+      { name: "Gustavo Flores", role: "Undergraduate Research Assistant · UCF EXCEL", period: "2025.01–2025.08", image: "/images/people/gustavo.jpg", focus: "Shoreline erosion, CoastSat" },
+      { name: "Julia Manfrediz", role: "Undergraduate Research Assistant · UCF EXCEL", period: "2025.01–2025.08", image: "/images/people/julia.jpg", focus: "Landslide mapping, Google Earth Engine." },
+      { name: "Olivia Tedeschi", role: "Undergraduate Research Assistant", period: "2024.08–2025.05", image: "/images/people/olivia.jpg", focus: "Coastal erosion, LiDAR." },
+      { name: "Ma Alessandra Domingo", role: "Undergraduate Research Assistant", period: "2024.08–2025.03", image: "/images/people/alessandra.jpg", focus: "Sinkhole, seismicity." },
+      { name: "Jesllie Lopez Martinez", role: "Undergraduate Research Assistant", period: "2024.01–2024.05", image: "/images/people/jesllie.jpg", focus: "Sinkhole, CPT." },
     ],
   },
 ];
@@ -79,7 +74,7 @@ export type GalleryItem = {
 };
 
 export const galleryItems: readonly GalleryItem[] = [
-  { src: `${imageRoot}/gbsar-slope.jpg`, alt: "Researchers operating ground-based sensing equipment at a mountain slope", caption: "Slope-monitoring fieldwork", category: "Fieldwork", featured: true },
+  { src: `${imageRoot}/gbsar-slope.jpg`, alt: "GB-InSAR slope monitoring", caption: "GB-InSAR slope monitoring", category: "Fieldwork", featured: true },
   { src: `${imageRoot}/dgb-front%20view.jpg`, alt: "Field view of the Daguangbao landslide", caption: "Daguangbao landslide investigation", category: "Fieldwork" },
   { src: `${imageRoot}/conf-georisk2023.jpg`, alt: "Geo-Risk 2023 conference participants", caption: "Geo-Risk 2023", category: "Conferences" },
   { src: `${imageRoot}/seminar-usgs.jpg`, alt: "Research seminar at the United States Geological Survey", caption: "USGS research seminar", category: "Visits" },
