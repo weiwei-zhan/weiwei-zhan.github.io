@@ -1,0 +1,2 @@
+:HL["/_next/static/css/4a86c1ea30349a3e.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"publications","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KTsG-exS7hTai_luEUaAw"}

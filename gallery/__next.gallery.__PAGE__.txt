@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1237,["820","static/chunks/820-c37c0a3a31977449.js","237","static/chunks/237-140055aa69f85654.js","235","static/chunks/app/gallery/page-d320f7756ce0687d.js"],"GalleryGrid"]
+3:I[3688,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-shell","children":["$","div",null,{"className":"page-shell__content","children":[["$","header",null,{"className":"page-intro","children":[["$","h1",null,{"children":"Gallery"}],["$","p",null,{"className":"page-intro__lead","children":"Explore selected moments from field investigations, research visits, conferences, seminars, teaching, and collaboration."}]]}],["$","$L2",null,{}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"KTsG-exS7hTai_luEUaAw"}
+5:null

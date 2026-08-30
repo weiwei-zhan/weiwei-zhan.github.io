@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[4651,["820","static/chunks/820-c37c0a3a31977449.js","752","static/chunks/app/resources/page-649862deee274a30.js"],"ResourcesDirectory"]
+3:I[3688,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-shell","children":["$","div",null,{"className":"page-shell__content","children":[["$","header",null,{"className":"page-intro","children":[["$","h1",null,{"children":"Resources"}],["$","p",null,{"className":"page-intro__lead","children":"A focused collection of admissions information, undergraduate research opportunities, educational materials, and research tools useful to current and prospective students."}]]}],["$","$L2",null,{}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"KTsG-exS7hTai_luEUaAw"}
+5:null

@@ -1,0 +1,5 @@
+:HL["/_next/static/css/4a86c1ea30349a3e.css","style"]
+:HL["/images/research/landslide-DGB.png","image"]
+:HL["/images/gallery/egx-tunnel-scan.jpg","image"]
+:HL["/images/gallery/gbsar-slope.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"research","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KTsG-exS7hTai_luEUaAw"}
