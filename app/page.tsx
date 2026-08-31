@@ -4,7 +4,7 @@ import { linkedInActivityUrl, scholarUrl } from "@/content/site-data";
 const missions = [
   {
     title: "Sensing",
-    description: "Observe and monitor surface and subsurface changes using geotechnical, geological, geophysical and remote sensing technologies.",
+    description: "Observe and monitor surface and subsurface changes using multidisplinary technologies.",
     tone: "blue",
   },
   {
