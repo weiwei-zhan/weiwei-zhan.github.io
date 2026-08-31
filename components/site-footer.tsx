@@ -7,7 +7,7 @@ export function SiteFooter() {
       <div className="site-footer__inner">
         <div>
           <Link className="footer-brand" href="/" aria-label="GeoSMART at UCF home">GeoSMART@UCF</Link>
-          <p>GeoSystems Intelligence Lab · Earth intelligence for natural hazards and resilient systems.</p>
+          <p>GeoSystems Sensing, Modeling, Analytics, Reliability, Translation</p>
         </div>
         <div className="footer-affiliation">
           <strong>University of Central Florida</strong>
