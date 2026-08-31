@@ -9,7 +9,7 @@ export const metadata: Metadata = { title: "Publications" };
 const topicOrder = [
   "Landslides & slope systems",
   "Earthquake Ground Motions and Site Response",
-  "Soil Liquefaction Assessment"
+  "Soil Liquefaction Assessment",
   "Coastal Hazards Reconnaissance and Modeling",
   "Remote Sensing and GeoAI",
   "Near-Surface Geophysics",

@@ -8,7 +8,7 @@ const teaching = [
     courses: ["Instructor · Geotechnical Engineering I · Fall 2023, Fall 2024, Fall 2025",
               "Instructor · Geotechnical Engineering II · Spring 2025, Fall 2026",
               "Instructor · Soil Dynamics · Spring 2024, Spring 2026",
-              "Instructor · Foundation Engineering · Spring 2025"},
+              "Instructor · Foundation Engineering · Spring 2025"] },
   { institution: "Clemson University", unit: "Glenn Department of Civil Engineering", 
     courses: ["Instructor · CE3211 Soil Mechanics Laboratory · 2019–2020", 
               "Teaching Assistant · CE3210 Geotechnical Engineering · Spring 2020", 
