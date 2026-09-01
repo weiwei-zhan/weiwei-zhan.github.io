@@ -48,7 +48,7 @@ export default function PeoplePage() {
       <section className="pi-card">
         <img src="/images/profile.JPG" alt="Weiwei Zhan" />
         <div>
-          <p className="eyebrow">Principal investigator · 2023.08–Present</p>
+          <p className="eyebrow">Principal investigator</p>
           <h2>Weiwei Zhan, Ph.D.</h2>
           <p className="pi-card__role">Assistant Professor · Director, GeoSMART@UCF</p>
           <p>Dr. Zhan develops interdisciplinary approaches that combine remote sensing, geophysical sensing, GeoAI, and geomechanics to study natural hazards and their impacts on infrastructure and environmental systems.</p>
