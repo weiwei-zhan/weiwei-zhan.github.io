@@ -6,23 +6,32 @@ import { linkedInActivityUrl } from "@/content/site-data";
 export const metadata: Metadata = { title: "News" };
 
 const news = [
-  {
-    date: "2025/06/04",
+  {date: "2026/08/25",
     category: "Conference Presentation",
     tone: "conference",
-    summary: "GeoSMART shared recent work on geohazard sensing, modeling, and AI with the research community.",
+    summary: "Bassam Nasir attended the NSF Near-Surface Geophysics Community Input Workshop at Albuquerque, New Mexico.",
+  },
+  {date: "2026/08/12",
+    category: "Conference Presentation",
+    tone: "conference",
+    summary: "Bassam Nasir presented his work on LiDAR-based coastal erosion mapping at the 2026 IGARSS conference in Washington, DC.",
+  },
+   {date: "2026/03/27",
+    category: "Conference Presentation",
+    tone: "conference",
+    summary: "Bassam Nasir presented his research and won the Judges’ Choice Award at UCF's Student Scholar Symposium.",
   },
   {
     date: "2025/05/17",
     category: "Invited Talk",
     tone: "talk",
-    summary: "Weiwei Zhan presented a geospatial framework bridging site- and regional-scale seismic site-response assessment at the 5th Badong International Geohazards Symposium.",
+    summary: "Dr. Weiwei Zhan presented a geospatial framework bridging site- and regional-scale seismic site-response assessment at the 5th Badong International Geohazards Symposium.",
   },
   {
     date: "2025/03/24",
     category: "Student Achievement",
     tone: "achievement",
-    summary: "Varun Singh’s UCF Student Scholar Symposium poster on liquefaction-induced lateral spreading received a Graduate Judges’ Choice award.",
+    summary: "Varun Singh’s presented his poster on liquefaction deformation modeling and won theJudges’ Choice award at UCF's Student Scholar Symposium.",
   },
 ] as const;
 
