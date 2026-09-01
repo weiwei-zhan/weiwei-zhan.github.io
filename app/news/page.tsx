@@ -47,7 +47,7 @@ const news = [
 
 export default function NewsPage() {
   return (
-    <PageShell eyebrow="News" title="News" intro="Research updates, presentations, fieldwork, student achievements, and opportunities from GeoSMART@UCF.">
+    <PageShell eyebrow="News" title="News" intro="Research updates, presentations, fieldwork, student achievements, etc.">
       <div className="news-list">
         {news.map((item) => (
           <article className="news-item" key={`${item.date}-${item.category}`}>

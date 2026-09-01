@@ -8,14 +8,9 @@ export default function ResearchPage() {
     <PageShell
       eyebrow="Research"
       title="Research"
-      intro="Our research advances the understanding of complex geosystems by integrating observations, modeling, and data analytics to support reliable decisions for hazard mitigation, resilience, and sustainability."
+      intro="Our research advances the understanding and modeling of complex geosystems-hazard-infrastructure interactions by integrating field observations, remote sensing, near-surface geophysics, process-based and data-driven modeling."
     >
       <div className="research-copy">
-        <p>
-          Our research integrates field observations, remote sensing, geophysics,
-          physical and numerical modeling, GeoAI, and uncertainty quantification
-          across the following interconnected topics.
-        </p>
 
         <h2>Landslides and Slope Stability</h2>
         <p>
