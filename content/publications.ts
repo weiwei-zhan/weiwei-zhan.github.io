@@ -1,41 +1,6 @@
 export const publicationItems = [
   {
     "topic": "Landslides & slope systems",
-    "year": "202X",
-    "type": "Ongoing journal article",
-    "text": "xHarandi, B., & Zhan, W. (202X). Explainable AI-Guided Landslide Modeling in the Eastern United States: Feature Selection via Backward Elimination under Spatial Cross-Validation. Engineering Geology. [under revision]",
-    "href": null
-  },
-  {
-    "topic": "GeoAI, sensing & geospatial methods",
-    "year": "202X",
-    "type": "Ongoing journal article",
-    "text": "xHarandi, B., Gavin, N., Hu, J, Zhan, W. (202X). Multi-Sensor Mapping of Aquatic Vegetation Using Sentinel-2, SAR–Optical Fusion and Derived Spectral and SAR Indices in South Florida. Remote Sensing. [under revision]",
-    "href": null
-  },
-  {
-    "topic": "Coastal hazards & infrastructure",
-    "year": "202X",
-    "type": "Ongoing journal article",
-    "text": "#Davies, M., Young, D., Scully, B., Bain, R.; Kress, M., Chen, J., Zhan, W. &, Wang, D. (202X). Sand In Your Channels?: A Parametric Regression Approach to Harbor Shoaling. ASCE's Journal of Waterway, Port, Coastal, and Ocean Engineering [under revision]",
-    "href": null
-  },
-  {
-    "topic": "Coastal hazards & infrastructure",
-    "year": "202X",
-    "type": "Ongoing journal article",
-    "text": "Schueller, A., Shawler, J., Ciarletta, D., Zhan, W., Tereszkiewicz, P., Aduseo, S., #Al-Tarawneh, O., #Nasir, B., Raubenheimer, B., & Stark, N. (202X). Integrating Geophysical and Geotechnical Methods to Characterize Hurricane Washover Deposits: Implications for Future Post-Storm Barrier Island Reconnaissance Surveys. ASCE's Journal of Waterway, Port, Coastal, and Ocean Engineering [under revision]",
-    "href": null
-  },
-  {
-    "topic": "Landslides & slope systems",
-    "year": "202X",
-    "type": "Ongoing journal article",
-    "text": "Thanveer, J., Yunus, A., Fan, X., Catani, F., Kumawat, S., Dai, L., Kaushal, S., Islam, M., Sajinkumar, K., Subramanian, S., Dou, J., Zhan, W., Scaringi, G., Tanyas, H., Lombardo, L., Gorum, T, & Lu, X. (202X) Topographic Controls Enable Near-Real-Time Prediction of Earthquake-Induced Landslides. AGU Earth’s Future [under review]",
-    "href": null
-  },
-  {
-    "topic": "Landslides & slope systems",
     "year": "2026",
     "type": "Journal article",
     "text": "#Yu, W., Zhan, W., Li, W., Singh, A., & Dong, J. (2026). Linking Fluvial Erosion and Large-Scale Landslide Activity in a Tectonically Active Landscape. Journal of Geophysical Research: Earth Surface. https://doi.org/10.1029/2025JF008905",
@@ -326,20 +291,6 @@ export const publicationItems = [
     "year": "2026",
     "type": "Conference paper",
     "text": "#Dhakal, K., Zhan, W. (2026). PS-InSAR Time-Series Monitoring of Deformation at a Florida Phosphogypsum Stack Using Sentinel-1. Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Washington, DC, USA, 2026.",
-    "href": null
-  },
-  {
-    "topic": "Landslides & slope systems",
-    "year": "2026",
-    "type": "Conference paper",
-    "text": "#Jaseem, M., Zhan, W. (2026). Event-Specific Landslide Susceptibility Modeling for Hurricane Helene in Western North Carolina. Proceedings of the 7th World Landslide Forum, Faridabad, India, 2026 [under review]",
-    "href": null
-  },
-  {
-    "topic": "Subsurface & infrastructure systems",
-    "year": "2026",
-    "type": "Conference paper",
-    "text": "Al-Tarawneh, O, Zhan, W., Kromhout, C. (2026). Statewide Sinkhole Susceptibility Mapping in Florida Using Explainable GeoAI. 18th Sinkhole Conference, Albany, New York October 5-9, 2026. [under review] (received Barry F. Beck Sinkhole Conference Student Support Award)",
     "href": null
   },
   {

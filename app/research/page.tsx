@@ -8,43 +8,113 @@ export default function ResearchPage() {
     <PageShell
       eyebrow="Research"
       title="Research"
-      intro="Our overarching goal is to understand how Earth systems respond to earthquakes, storms, climate extremes, and human activity—and to turn that understanding into better engineering decisions."
+      intro="Our research advances the understanding of complex geosystems by integrating observations, modeling, and data analytics to support reliable decisions for hazard mitigation, resilience, and sustainability."
     >
       <div className="research-copy">
         <p>
-          We combine geospatial sensing, geophysics, physical modeling, and data analytics to observe change across scales, explain the processes that produce hazards, and quantify uncertainty in prediction and risk assessment. Natural hazards form the scientific foundation of GeoSMART, while the same capabilities are increasingly applied to infrastructure, subsurface systems, and GeoResources.
+          Our research integrates field observations, remote sensing, geophysics,
+          physical and numerical modeling, GeoAI, and uncertainty quantification
+          across the following interconnected topics.
         </p>
 
-        <p><strong>Landslides and slope systems.</strong> We study earthquake- and rainfall-induced landslides through event mapping, initiation and mobility modeling, field monitoring, and long-term risk assessment. Particular interests include multimodal satellite mapping, event-to-event model generalization, cascading mountain hazards, and the interaction between slope failure and infrastructure.</p>
-
-        <figure className="research-figure research-figure--left">
-          <img src="/images/research/landslide-DGB.png" alt="Daguangbao landslide research and field investigation" />
-          <figcaption>Landslide investigation across field, remote-sensing, and modeling scales.</figcaption>
-        </figure>
-
-        <p><strong>Earthquake ground motion, site response, and liquefaction.</strong> Our work links observations, empirical models, numerical simulation, and machine learning to characterize spatially variable shaking and soil response. We are interested in nonergodic ground-motion modeling, physics-guided learning, uncertainty-aware site response, and regional detection of liquefaction effects.</p>
-
-        <p><strong>Sinkholes, subsidence, and concealed ground instability.</strong> We integrate geophysical sensing, remote observation, spatial modeling, and geotechnical assessment to identify and characterize evolving subsurface hazards. Current directions include GPR, InSAR, UAV-based sensing, data fusion, and defensible validation under incomplete or uncertain ground truth.</p>
-
-        <figure className="research-figure research-figure--right">
-          <img src="/images/gallery/egx-tunnel-scan.jpg" alt="Subsurface geophysical sensing demonstration" />
-          <figcaption>Geophysical sensing for concealed subsurface and infrastructure conditions.</figcaption>
-        </figure>
-
-        <p><strong>Coastal and storm hazards.</strong> We examine storm-driven erosion, changing coastal morphology, compound hazards, and spatially variable impacts on communities and transportation systems. Repeated LiDAR, satellite observations, field data, and process-informed models help explain why neighboring coastal segments can experience very different outcomes during the same storm.</p>
-
-        <p><strong>Multimodal Earth sensing.</strong> We use optical and radar satellites, InSAR, LiDAR, UAVs, GPR, seismic observations, and distributed fiber sensing. A central challenge is to determine what each observation truly constrains, how different measurements can be combined, and how sensing capability can be translated into reliable scientific or engineering information.</p>
+        <h2>Landslides and Slope Stability</h2>
+        <p>
+          Our landslide research connects slope processes with hazard assessment
+          across local to regional scales. Published work spans coseismic
+          landslide inventories, rock-avalanche mobility, landslide dams,
+          progressive slope deformation, remote-sensing-based early detection,
+          dynamic susceptibility mapping, and uncertainty-aware stability and
+          reliability analysis.
+        </p>
+        <p>
+          <a
+            className="text-link"
+            href="/publications#landslides-and-slope-stability"
+          >
+            Related publications →
+          </a>
+        </p>
 
         <figure className="research-figure research-figure--wide">
-          <img src="/images/gallery/gbsar-slope.jpg" alt="Ground-based remote sensing equipment deployed at a mountain slope" />
-          <figcaption>Field sensing and monitoring of active Earth systems.</figcaption>
+          <img
+            src="/images/research/landslide-DGB.png"
+            alt="Daguangbao landslide research and field investigation"
+          />
+          <figcaption>
+            Landslide investigation across field, remote-sensing, and modeling
+            scales.
+          </figcaption>
         </figure>
 
-        <p><strong>GeoAI and physical modeling.</strong> We develop machine-learning, statistical, and numerical approaches that remain interpretable, uncertainty-aware, and grounded in physical process. Research themes include multimodal fusion, physics-guided learning, spatial validation, transfer across regions and events, and models that support decisions rather than only retrospective classification.</p>
+        <h2>Earthquake Ground Motions</h2>
+        <p>
+          Our earthquake research examines how source, propagation path,
+          subsurface geology, topography, and basin structure shape ground
+          shaking. Published studies develop geospatial site-amplification
+          models, measures of site-response complexity, HVSR- and Vs30-informed
+          site terms, basin-effect assessments, and machine-learning ground-motion
+          models for spatially variable and nonergodic applications.
+        </p>
+        <p>
+          <a
+            className="text-link"
+            href="/publications#earthquake-ground-motions"
+          >
+            Related publications →
+          </a>
+        </p>
 
-        <p><strong>Infrastructure and GeoResources.</strong> Emerging GeoSMART work transfers this sensing–modeling framework to infrastructure health, smart cities, buried utilities, subsurface characterization, environmental monitoring, and critical-mineral prospectivity. These applications share a common goal: extracting actionable Earth information from incomplete, multiscale observations.</p>
+        <h2>Liquefaction Hazard Assessment</h2>
+        <p>
+          We develop methods to assess liquefaction occurrence and consequences
+          before and after earthquakes. Research spans regional susceptibility
+          and triggering models, accelerogram-based detection, lateral spreading
+          and ground deformation, liquefaction-affected ground motions, and
+          uncertainty-aware approaches that support rapid hazard assessment and
+          infrastructure decisions.
+        </p>
+        <p>
+          <a
+            className="text-link"
+            href="/publications#liquefaction-hazard-assessment"
+          >
+            Related publications →
+          </a>
+        </p>
 
-        <h2>… and more.</h2>
+        <figure className="research-figure research-figure--wide">
+          <img
+            src="/images/research/liq-detection-framework.png"
+            alt="Framework for earthquake liquefaction detection and assessment"
+          />
+          <figcaption>
+            Observation- and data-driven assessment of liquefaction hazards.
+          </figcaption>
+        </figure>
+
+        <h2>Coastal Hazards and Resilience</h2>
+        <p>
+          We examine how hurricanes and other coastal storms reshape beaches,
+          dunes, barrier islands, inlets, and adjacent infrastructure. By
+          combining repeated LiDAR and satellite observations, field
+          reconnaissance, geophysical and geotechnical measurements, and
+          process-informed analytics, we seek to explain spatially variable
+          impacts and improve coastal-hazard and resilience assessment.
+        </p>
+        <p>
+          <a
+            className="text-link"
+            href="/publications#coastal-hazards-and-resilience"
+          >
+            Related publications →
+          </a>
+        </p>
+
+        <h2>Sinkhole Science and Hazards</h2>
+        <p>Coming soon.</p>
+
+        <h2>Ecosystem Sustainability</h2>
+        <p>Coming soon.</p>
       </div>
     </PageShell>
   );

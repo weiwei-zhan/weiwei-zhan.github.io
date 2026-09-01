@@ -29,9 +29,9 @@ export default function Home() {
     <main className="classic-container home-layout">
       <section className="home-main">
         <p className="home-kicker">GeoSystems Intelligence Lab</p>
-        <h1>GeoSMART@UCF Lab</h1>
+        <h1>GeoSMART@UCF</h1>
         <p className="home-lead">
-          We are an interdisciplinary research group at the University of Central Florida advancing <strong>Geo</strong>systems <strong>S</strong>ensing, <strong>M</strong>odeling, <strong>A</strong>nalytics, <strong>R</strong>eliability, and <strong>T</strong>ranslation to address emerging <span style={{ color: "#b42318" }}>resilience</span> and <span style={{ color: "#16803c" }}>sustainability</span> challenges.
+          We are an interdisciplinary research group at the University of Central Florida advancing <strong>Geo</strong>systems <strong>S</strong>ensing, <strong>M</strong>odeling, <strong>A</strong>nalytics, <strong>R</strong>eliability, and <strong>T</strong>ranslation technologies to address emerging <span style={{ color: "#b42318" }}>resilience</span> and <span style={{ color: "#16803c" }}>sustainability</span> challenges.
         </p>
 
         <figure className="mission-figure">
