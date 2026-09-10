@@ -28,9 +28,13 @@ export const currentPeopleGroups = [
   {
     title: "Undergraduate Researchers",
     people: [
-      { name: "NEW Student", role: "Undergraduate Research Assistant", period: "2026.08–Present", focus: "Keywords" },
+      { name: "Aryeh Fishman", role: "Undergraduate Research Assistant", period: "2026.08–Present", image: "/images/people/aryeh.jpg", focus: "Flume experiments" },
+      { name: "Athena Morales", role: "Undergraduate Research Assistant", period: "2026.08–Present", image: "/images/people/athena.jpg", focus: "Remote Sensing" },
+      { name: "Gavin Stevenson Campana", role: "Undergraduate Research Assistant", period: "2026.08–Present", image: "/images/people/gavin.jpg", focus: "Fiber-optic sensing" },
+      { name: "Luisa Cordova", role: "Undergraduate Research Assistant", period: "2026.08–Present", image: "/images/people/luisa.jpg", focus: "Remote Sensing" },
+      { name: "Max Hegna", role: "Undergraduate Research Assistant", period: "2026.08–Present", image: "/images/people/max.jpg", focus: "GPR" },
     ],
-  },
+  }
 ];
 
 export const alumniGroups = [
